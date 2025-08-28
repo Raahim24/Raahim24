@@ -17,8 +17,7 @@
 ### 🛠️ Tech Stack  
 **Languages:** Python, C, JavaScript (TS), C++, SQL  
 **Frameworks & Tools:** Next.js, Tailwind, React, Node.js, PyTorch, TensorFlow  
-**Cloud & Infra:** AWS, Vercel, Docker, Pinecone, Firebase  
-**Other:** Git, LaTeX, Notion API, ffmpeg  
+**Other:** Git, LaTeX, XGBoost, ffmpeg  
 
 ---
 
