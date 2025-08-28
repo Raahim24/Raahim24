@@ -21,15 +21,15 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raahim24&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raahim24&theme=radical" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Raahim24&show_icons=true&theme=radical&count_private=true&hide_title=true&rank_icon=github" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raahim24&layout=compact&theme=radical&hide=Jupyter%20Notebook,HTML,CSS&langs_count=8&card_width=420&custom_title=Languages%20(Top%20Repos)" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raahim24&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raahim24&theme=radical" />
+  <img width="860" src="https://github-profile-trophy.vercel.app/?username=Raahim24&theme=radical&margin-w=15&margin-h=15&column=6" />
 </p>
+
 
