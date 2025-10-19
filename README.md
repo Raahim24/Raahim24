@@ -33,8 +33,11 @@ My focus is on developing intelligent systems that combine automation, reasoning
 </p>
 
 <p align="center">
-  <img width="420" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raahim24&layout=compact&theme=transparent&title_color=FFC298&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=8&custom_title=Top%20Languages" alt="Raahim's Top Languages" />
+  <img width="420" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raahim24&layout=compact&theme=transparent&title_color=FFC298&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=8&hide=Jupyter%20Notebook,HTML&custom_title=Top%20Languages" alt="Raahim's Top Languages" />
 </p>
+
+
+
 
 ---
 
