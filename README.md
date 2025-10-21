@@ -10,11 +10,11 @@ Building technology that connects data, intelligence, and creativity.
 I’m a third-year Computer Science student specializing in Artificial Intelligence.  
 My focus is on developing intelligent systems that combine automation, reasoning, and data-driven insights to solve real-world problems.
 
-- Working at **[GeoResource Cloud](https://www.georesourcecloud.com)** — developing a multi-agent system for intelligent geoscience data analysis.  
-- Tutor at [Ada’s Team, University of Alberta](https://adasteam.ca) — mentoring students in programming and software engineering.  
-- Finance Team Member at [MEDLIFE UAlberta](https://www.instagram.com/medlife.ualberta) — supporting fundraising and community health initiatives.  
-- Former AI Research Assistant @ *University of Alberta* — implemented Mask R-CNN and U-Net for river-ice segmentation.  
-- Former Software Engineering Intern @ *Systems Limited* — automated large-scale data pipelines and improved efficiency.
+- Working at **[GeoResource Cloud](https://www.georesourcecloud.com)** - developing a multi-agent system for intelligent geoscience data analysis.  
+- Tutor at [Ada’s Team, University of Alberta](https://adasteam.ca) - mentoring students in programming and software engineering.  
+- Finance Team Member at [MEDLIFE UAlberta](https://www.instagram.com/medlife.ualberta) - supporting fundraising and community health initiatives.  
+- Former AI Research Assistant @ *University of Alberta* - implemented Mask R-CNN and U-Net for river-ice segmentation.  
+- Former Software Engineering Intern @ *Systems Limited* - automated large-scale data pipelines and improved efficiency.
 
 ---
 
